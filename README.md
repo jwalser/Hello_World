@@ -1,12 +1,6 @@
 ### Hello_World
 
 
-# Headers
-
-<h1> tag > #
-<h2> tag > ##
-<hn> tag > #xn
-
 # Emphasis
 
 *This text will be italic*
